@@ -23,13 +23,15 @@
 </p>
 
 <p align="center">
-  <a href="#gobus">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gobus">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#rocket-technologies">Tecnologias</a>
   <a href="#information_source-how-to-use">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-license">Licença</a>
 </p>
 
 # goBus
+
+O goBus permite descobrir facilmente linhas de ônibus próximas à sua localização, além de poder acompanhar o trajeto dos veículos da linha
 
 ## :rocket: Technologies
 
