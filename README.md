@@ -35,7 +35,7 @@ O goBus permite descobrir facilmente linhas de ônibus próximas à sua localiza
 
 ## :rocket: Technologies
 
-This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+This project was developed with the following technologies:
 
 -  [React Router v4](https://github.com/ReactTraining/react-router)
 -  [Axios](https://github.com/axios/axios)
