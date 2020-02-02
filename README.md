@@ -1,5 +1,5 @@
 <h1 align="center">
-    ![icon](src/assets/icon.png)
+    <img alt="GoBus" src="https://image.flaticon.com/icons/svg/2097/2097064.svg" width="200px" />
 </h1>
 
 <h3 align="center">
