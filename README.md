@@ -31,7 +31,7 @@
 
 ## goBus
 
-O goBus permite descobrir facilmente linhas de ônibus próximas à sua localização, além de poder acompanhar o trajeto dos veículos da linha
+O goBus permite descobrir facilmente linhas de ônibus próximas à sua localização, além de poder acompanhar o trajeto dos veículos da linha. O projeto atualmente só mapea as linhas do DF - Distrito federal
 
 ## :rocket: Technologies
 
